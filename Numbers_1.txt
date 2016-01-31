@@ -1,0 +1,2 @@
+47 ms full repaint
+16 ms checking against each element

@@ -1,0 +1,35 @@
+I chose these different numbers to represent the different possible pieces on the game board.
+Dividing by6 gives you a unique number for each color.
+Modding by 6 gives you what shape.
+I thought it was clever.
+
+0   blank
+
+6   red   bug
+7   red ()
+8   red U
+9   red ^
+10   red )
+11   red (
+
+12   yel   bug
+13   yel ()
+14   yel U
+15  yel ^
+16  yel )
+17  yel (
+
+18  blu  bug
+19  blu ()
+20  blu U
+21  blu ^
+22  blu )
+23  blu (
+
+Possible pill combinations are:
+RR
+RY
+RB
+YY
+YB
+BB
